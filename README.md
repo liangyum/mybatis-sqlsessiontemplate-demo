@@ -1,1 +1,1 @@
-# mybatis-sqlsessiontemplate-demo
+# springmvc-mybatis-sqlSessionTemplate
